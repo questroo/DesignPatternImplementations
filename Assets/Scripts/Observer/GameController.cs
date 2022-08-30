@@ -4,7 +4,7 @@ using UnityEngine;
 
 namespace Observer
 {
-    public class StaticEventsController : MonoBehaviour
+    public class GameController : MonoBehaviour
     {
         public Enemy enemyPrefab;
 
